@@ -49,7 +49,6 @@ Only Python standard library modules are used.
 
 Run the application using:
 
-```bash
 python main.py
 
 **## What the Program Does**
