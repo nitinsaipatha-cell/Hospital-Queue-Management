@@ -32,11 +32,11 @@ The system is thread-safe and supports background processing.
 
 ## Repository Structure
 
-|-- main.py  # Application with GUI and queue logic
+|-- Hospital Queue Management - Project.py.py  # Application with GUI and queue logic
 
 |-- README.md  # Project documentation
 
-*(Replace `main.py` with your file name if different.)*
+*(Replace `Hospital Queue Management - Project.py.py` with your file name if different.)*
 
 ## Requirements
 
@@ -48,8 +48,8 @@ Only Python standard library modules are used.
 ## How to Run
 
 Run the application using:
-
-python main.py
+1. Clone the repository: git clone https://github.com/nitinsaipatha-cell/Hospital-Queue-Management.git cd Hospital-Queue-Management
+2. Run the script: python "Hospital Queue Management - Project.py"
 
 **What the Program Does**
 
