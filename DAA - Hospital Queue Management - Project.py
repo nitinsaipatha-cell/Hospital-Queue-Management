@@ -12,7 +12,7 @@ from typing import List, Tuple
 # -------------------------
 # Desktop export path (confirmed)
 # -------------------------
-DESKTOP_PATH = "/Users/saidaiwikchinthamaduka/Desktop"
+DESKTOP_PATH = "/Users/nitinsaimac/Desktop"
 
 # -------------------------
 # Data model
