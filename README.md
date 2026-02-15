@@ -51,7 +51,7 @@ Run the application using:
 
 python main.py
 
-**## What the Program Does**
+**What the Program Does**
 
 - Register new patients  
 - Automatically compute their priority  
@@ -61,7 +61,7 @@ python main.py
 - Export queue data to CSV  
 - Show queue statistics  
 
-**## Export Information**
+**Export Information**
 
 CSV files are automatically saved to:
 /Users/nitinsaimac/Desktop
