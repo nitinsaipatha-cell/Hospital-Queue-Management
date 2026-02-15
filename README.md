@@ -32,8 +32,9 @@ The system is thread-safe and supports background processing.
 
 ## Repository Structure
 
-|-- main.py # Application with GUI and queue logic
-|-- README.md # Project documentation
+|-- main.py  # Application with GUI and queue logic
+
+|-- README.md  # Project documentation
 
 *(Replace `main.py` with your file name if different.)*
 
